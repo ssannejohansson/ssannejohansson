@@ -1,10 +1,10 @@
-# Hello, I'm Sanne 👋
+# Hello, I'm Sanne 👩🏼‍💻
 
 I'm a certified Full Stack Web Application Developer with an eye for detail and a passion for visually appealing, user-friendly experiences. 
 
-💼 Available for: Employment · Projects · Freelance  
-📫 Contact: sannej0hansson@hotmail.com  
-🌐 Portfolio: https://ssannejohansson.github.io/portfolio2026/
+▪️ Available for: Employment · Projects · Freelance  
+▪️ Contact: sannej0hansson@hotmail.com  
+▪️ Portfolio: https://ssannejohansson.github.io/portfolio2026/
 
 ---
 
